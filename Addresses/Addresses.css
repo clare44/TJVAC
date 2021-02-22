@@ -1,0 +1,16 @@
+
+.title{
+width: 300px;
+height: 100px;
+background-color: #0E9594;
+}
+
+.body{
+    background-color: #F5DFBB;
+}
+
+
+.map {
+    height: 400px;
+    width: 100%;
+  }
