@@ -1,9 +1,10 @@
 body {
     background-color: #F5DFBB;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1 {
     color: #562C2C;
-    font-size: 2cm;
+    font-size:2cm;
     margin-top:10px;
 }
 strong{
@@ -21,10 +22,6 @@ b {
 }
 
 .brand-logo {
-    position: absolute;
-    display:block;
-    margin-left:auto;
-    margin-right: auto;
     width: 120px;
     height: auto;
 }
