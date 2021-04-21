@@ -26,8 +26,8 @@ var map = new ol.Map({
           })
         ],
         view: new ol.View({
-          center: ol.proj.fromLonLat([37.41, 8.82]),
-          zoom: 4
+          center: ol.proj.fromLonLat([-79.381, 43.666]),
+          zoom: 18
         })
       });
 
@@ -41,22 +41,9 @@ var map = new ol.Map({
           })
         ],
         view: new ol.View({
-          center: ol.proj.fromLonLat([37.41, 8.82]),
-          zoom: 4
+          center: ol.proj.fromLonLat([-79.358570, 43.656730]),
+          zoom: 19
         })
       });
 
 
-
-      var map = new ol.Map({
-        target: 'map4',
-        layers: [
-          new ol.layer.Tile({
-            source: new ol.source.OSM()
-          })
-        ],
-        view: new ol.View({
-          center: ol.proj.fromLonLat([37.41, 8.82]),
-          zoom: 4
-        })
-      });
