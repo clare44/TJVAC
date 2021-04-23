@@ -30,4 +30,14 @@ div{
       font-size: x-large;
     
   }
+  
+.brand-logo {
+    position: absolute;
+    display:block;
+    margin-left:50%;
+    margin-right: auto;
+    width: 120px;
+    height: auto;
+   
+}
 
