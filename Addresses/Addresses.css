@@ -1,9 +1,5 @@
 
-#title{
-width: 500px;
-height: 400px;
-background-color: #0E9594;
-}
+
 
 body{
     background-color: #F5DFBB;
@@ -22,16 +18,20 @@ body{
   h1{
       font-size: 50px;
       display: inline;
-      color: black;
-  }
+      color:#0E9594;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+}
+  
 
 div{
       display: inline;
       width: 400px;
       font-size: x-large;
-      color: rgb(86,44,44)
+      color: rgb(86,44,44);
+      font-family: Georgia, 'Times New Roman', Times, serif;
+}
     
-  }
+
   
 .brand-logo {
     position: absolute;
