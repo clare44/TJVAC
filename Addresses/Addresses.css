@@ -22,12 +22,14 @@ body{
   h1{
       font-size: 50px;
       display: inline;
+      color: black;
   }
 
 div{
       display: inline;
       width: 400px;
       font-size: x-large;
+      color: rgb(86,44,44)
     
   }
 
