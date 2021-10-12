@@ -34,10 +34,7 @@ div{
 
   
 .brand-logo {
-    position: absolute;
-    display:block;
-    margin-left:auto;
-    margin-right: auto;
+    
     width: 120px;
     height: auto;
 }
