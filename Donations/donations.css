@@ -5,15 +5,17 @@ body {
 h1 {
     color:rgb(18,116,117);
     font-size: 45;
-}
+}ss
 
 h2 {
     color: rgb(18,116,117);
     font-size:24; 
 }
 p {
-    color: rgb(86,44,44)
-    
+    color: rgb(86,44,44) 
+}
+a {
+    color: #F2542D;
 }
 .brand-logo {
     position: absolute;
