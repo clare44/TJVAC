@@ -3,12 +3,13 @@
 
 body{
     background-color: #F5DFBB;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
 .map {
     height: 400px;
-    width: 900px;
+    width: 800px;
     float: right;
     padding: 15px;
     display:inline;
@@ -18,12 +19,19 @@ body{
   h1{
       font-size: 50px;
       display: inline;
-      color:#0E9594;
-      font-family: Georgia, 'Times New Roman', Times, serif;
+      color:rgb(86,44,44);
+     
+      
+      
 }
   
+h5{
+    color:#0E9594;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
 
-div{
+.textDiv{
       display: inline;
       width: 400px;
       font-size: x-large;
@@ -37,4 +45,8 @@ div{
     
     width: 120px;
     height: auto;
+}
+
+p{
+font-size: 18px;
 }
